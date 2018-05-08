@@ -1,0 +1,7 @@
+C:\Users\Paulius\source\repos\nodes\nodes\bin\Debug\nodes.exe.config
+C:\Users\Paulius\source\repos\nodes\nodes\bin\Debug\nodes.exe
+C:\Users\Paulius\source\repos\nodes\nodes\bin\Debug\nodes.pdb
+C:\Users\Paulius\source\repos\nodes\nodes\obj\Debug\nodes.csprojResolveAssemblyReference.cache
+C:\Users\Paulius\source\repos\nodes\nodes\obj\Debug\nodes.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\source\repos\nodes\nodes\obj\Debug\nodes.exe
+C:\Users\Paulius\source\repos\nodes\nodes\obj\Debug\nodes.pdb
