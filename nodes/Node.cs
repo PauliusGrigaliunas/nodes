@@ -22,6 +22,9 @@ namespace nodes
         {
             _data = data;
             _first = next;
+            _second = null;
+            _third = null;
+            _fourth = null;
         }
 
         public void AddToFirstEnd(object data)
