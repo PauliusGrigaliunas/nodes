@@ -14,6 +14,7 @@ namespace nodes
             list.AddToEnd(5);
             list.AddToEnd(4);
             list.AddToEnd(9);
+            list.AddToSecondEnd(44);
             list.Print();
 
 
